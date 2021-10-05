@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <a href="https://github.com/arthursiimoes/github-readme-stats">
+  <a href="https://github.com/arthursiimoes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthursiimoes&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/arthursiimoes/convoychat">
+<a href="https://github.com/arthursiimoes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthursiimoes&repo=convoychat" />
 </a>
 </div>

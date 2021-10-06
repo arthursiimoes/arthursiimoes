@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 <div style="display: inline_block"><br>
   <img align="center" alt="Tuzin-NodeJS" height="60" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Tuzin-Python" height="60" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Tuzin-CSS" height="60" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />

@@ -1,4 +1,4 @@
-### Salve, meu nome é Arthur, mas sou conhecido como Tuzin.
+### Olá, me chamo Arthur Simões, mais conhecido virtualmente como Tuzin, é um prazer conhecer você!
 
 <div align="center">
   <a href="https://github.com/arthursiimoes">

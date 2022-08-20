@@ -2,7 +2,7 @@
 
 <div align="left">
   <a href="https://github.com/arthursiimoes">
-  <img height="275em" src="https://github-readme-stats.vercel.app/api?username=arthursiimoes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="275em" src=""/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Tuzin-NodeJS" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -10,7 +10,7 @@
   <img align="center" alt="Tuzin-CSS" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Tuzin-JS" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Tuzin-AE" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/762765998419083303/1010651599170973817/Tuzin.gif">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/762765998419083303/1010649010991800471/Tuzin.png">
   </div>
   
   ##

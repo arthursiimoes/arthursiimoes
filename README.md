@@ -1,4 +1,4 @@
-### Olá, me chamo Arthur Simões, mais conhecido virtualmente como Tuzin, é um prazer conhecer você!
+### Olá, meu nome é Arthur Simões, popularmente conhecido como tzn, é um prazer conhecer você!
 
 <div align="left">
   <a href="https://github.com/arthursiimoes">
